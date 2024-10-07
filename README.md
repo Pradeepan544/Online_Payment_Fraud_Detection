@@ -21,10 +21,10 @@ The dataset exhibited a significant class imbalance with a ratio of 99.9% non-fr
 
 ## 📝 Model Development
 Implemented several machine learning algorithms, including:
-Decision Tree
-K-Nearest Neighbour
-Support Vector Machine
-Logistic Regression
+* Decision Tree
+* K-Nearest Neighbour
+* Support Vector Machine
+* Logistic Regression
 These models were trained and evaluated to determine their effectiveness in detecting fraudulent transactions. Feature importance analysis was also performed to identify which factors are most significant in predicting fraud.
 
 ## 📝 License
