@@ -24,8 +24,8 @@ Implemented several machine learning algorithms, including:
 * Decision Tree
 * K-Nearest Neighbour
 * Support Vector Machine
-* Logistic Regression
-These models were trained and evaluated to determine their effectiveness in detecting fraudulent transactions. Feature importance analysis was also performed to identify which factors are most significant in predicting fraud.
+* Logistic Regression.
+* These models were trained and evaluated to determine their effectiveness in detecting fraudulent transactions. Feature importance analysis was also performed to identify which factors are most significant in predicting fraud.
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
